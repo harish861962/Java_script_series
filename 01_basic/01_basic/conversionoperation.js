@@ -1,3 +1,7 @@
+// node 01_basic/01_basic/date_time.js  run this file in terminal to see the output
+
+
+
 let score = 33
 console.log(score);
 console.log(typeof(score)); //number
