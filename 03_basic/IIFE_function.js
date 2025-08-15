@@ -22,3 +22,4 @@
 ((name) => {
     console.log(`Arrow IIFE running! ${name}`);  // parameter pass 
 })('harish');
+ 
