@@ -17,10 +17,11 @@
     console.log("I run immediately!");
 })();
 
-// or with arrow function:
+// or with arrow function: 
 
 ((name) => {
 
 console.log(`Arrow IIFE running! ${name}`);  // parameter pass 
 })('harish');
+
  
